@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BMICal/static/css/main.5ff94a2f.css",
+    "main.js": "/BMICal/static/js/main.cb2d741c.js",
+    "static/js/787.aa5e1c74.chunk.js": "/BMICal/static/js/787.aa5e1c74.chunk.js",
+    "index.html": "/BMICal/index.html",
+    "main.5ff94a2f.css.map": "/BMICal/static/css/main.5ff94a2f.css.map",
+    "main.cb2d741c.js.map": "/BMICal/static/js/main.cb2d741c.js.map",
+    "787.aa5e1c74.chunk.js.map": "/BMICal/static/js/787.aa5e1c74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff94a2f.css",
+    "static/js/main.cb2d741c.js"
+  ]
+}
